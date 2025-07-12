@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mats-Dodd
-- 👀 I’m interested in Data Science, specifically Econometrics & Causal Inference
-- 🌱 I’m currently learning ml engineering
-- 💞️ I’m looking to collaborate on developing packages & libraries for causal inference
-- 📫 How to reach me mats.dodd12@gmail.com
+Name: Mats
+Role: Who knows at this point
+Likes: Coding, Rugby, Eating, Girlfriend
+Dislikes: Coding, Girlfriend (sometimes)
+Interests: Depends on day, ranges form local first software (shoutout ink&switch) to marco policy back to ai stuff.
 
 <!---
 Mats-Dodd/Mats-Dodd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
